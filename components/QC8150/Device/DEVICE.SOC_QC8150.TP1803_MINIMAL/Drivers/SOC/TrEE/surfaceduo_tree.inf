@@ -48,6 +48,7 @@ hdcpsrm.mbn
 hdcp2p2.mbn
 hdcp1.mbn
 fpctzrel.mbn
+pr_3_wp.mbn
 
 QcTrEE8180.sys
 
@@ -236,6 +237,7 @@ hdcpsrm.mbn = 1,
 hdcp2p2.mbn = 1,
 hdcp1.mbn = 1,
 fpctzrel.mbn = 1,
+pr_3_wp.mbn = 1,
 
 QcTrEE8180.sys = 1,,
 
